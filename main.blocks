@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="I9cwJA%S2*lwpUpTy=K;" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="4yxWR8mOuZU-AB3{]rBk"><field name="i">IconNames.Heart</field><next><block type="playMelody" id=",C_ehj*RDF=DqR~Om%Wm"><value name="melody"><shadow type="melody_editor" id="Z_D:kLDzrtkPVW-3t8p2"><field name="melody">"C5 C E F F A B C5 "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id=".Gw40``_iU*lHIXO0(Zy"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value><next><block type="device_print_message" id=".$}-0U)Ke(w0*I/Rq,Ur"><value name="text"><shadow type="text" id=",RWH~t*s(x*%Ef5t;,;l"><field name="TEXT">The End</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="M.MupQ{A{`BW7XmR;mvs" x="225" y="20"/></xml>
